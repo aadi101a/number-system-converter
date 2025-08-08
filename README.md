@@ -28,3 +28,9 @@ A responsive web app that allows users to convert numbers between Binary, Decima
 ##  Live Demo
 [Play the Tic Tac Toe Game]( https://aadi101a.github.io/number-system-converter/)
 
+
+##  Author
+- [Mohd Adeeb](https://github.com/aadi101a)
+
+##  License
+This project is licensed under the [MIT License](LICENSE).
