@@ -25,4 +25,6 @@ A responsive web app that allows users to convert numbers between Binary, Decima
 <img width="1297" height="873" alt="Screenshot 2025-07-29 084603" src="https://github.com/user-attachments/assets/1ebfa7f5-7d1a-4871-91e1-6cd8f9bffad6" />
 <img width="1487" height="830" alt="Screenshot 2025-07-29 084744" src="https://github.com/user-attachments/assets/0d45a52e-13a9-4b66-a9fe-537b0d62a815" />
 
+##  Live Demo
+[Play the Tic Tac Toe Game]
 
